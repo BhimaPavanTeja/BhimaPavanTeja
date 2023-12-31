@@ -19,7 +19,7 @@ Hello! 👋 I'm Pavan Teja Bhima, a passionate Frontend Developer from Vizag. I 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-333333?style=flat&logo=CPP)
 ![javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-![VSCode](https://img.shields.io/badge/-VS-Code-333333?style=flat&logo=vs_code)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vs_code)
 ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
