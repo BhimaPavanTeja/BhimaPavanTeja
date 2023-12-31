@@ -1,7 +1,7 @@
 # Pavan Teja Bhima
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/pavantejabhima)
 
 ## Intro
 
@@ -31,11 +31,6 @@ Hello! 👋 I'm [Pavan Teja Bhima], a passionate [Frontend Developer] from [Viza
 
 [![PavanTejaBhima's GitHub | Stats](https://stats.quine.sh/PavanTejaBhima/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PavanTejaBhima)
 
-## Recent Blog Posts
-
-- [Blog Post 1](link-to-blogpost1): Brief description.
-- [Blog Post 2](link-to-blogpost2): Brief description.
-- ...
 
 ## Connect with Me
 
