@@ -5,7 +5,7 @@
 
 ## Intro
 
-Hello! 👋 I'm Pavan Teja Bhima, a passionate Frontend Developer from Vizag. I love working on Apps / AI Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
+Hello! 👋 I'm Pavan Teja Bhima, & I'm passionate Frontend Developer from Vizag. I love working on Apps / AI Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
 
 ## About Me
 
