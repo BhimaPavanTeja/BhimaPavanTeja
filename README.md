@@ -5,21 +5,21 @@
 
 ## Intro
 
-Hello! 👋 I'm [Pavan Teja Bhima], a passionate [Frontend Developer] from [Vizag]. I love working on [Apps / AI Technologies]. This is my GitHub profile, where you can find some of my projects and contributions.
+Hello! 👋 I'm Pavan Teja Bhima, a passionate Frontend Developer from Vizag. I love working on Apps / AI Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
 
 ## About Me
 
-- 🔭 I’m passionate on working with [Frontend tecnologies and Generative AI].
-- 🌱 I’m currently learning [Android App Development].
-- 💬 Ask me about [websites].
+- 🔭 I’m passionate on working with Frontend tecnologies and Generative AI.
+- 🌱 I’m currently learning Android App Development.
+- 💬 Ask me about websites.
 - 📫 How to reach me: [Email](pavantejabhima@example.com)
 
 ## Technologies & Tools
 
 ![C](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=CPP)
+![CPP](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=CPP)
 ![javascript](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=javascript)
-![VS Code](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=vs_code)
+![VSCode](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=vs_code)
 
 ## Projects
 
