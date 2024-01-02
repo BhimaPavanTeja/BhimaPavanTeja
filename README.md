@@ -1,11 +1,11 @@
-# Pavan Teja Bhima
+! Pavan Teja Bhima
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/pavantejabhima)
 
 ## Intro
 
-Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love working on Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
+Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love working on Websites,Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
 
 ## About Me
 
