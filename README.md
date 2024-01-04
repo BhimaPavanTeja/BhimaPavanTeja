@@ -1,4 +1,4 @@
-> [!NOTE] Pavan Teja Bhima
+> [!NOTE]
 > Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
