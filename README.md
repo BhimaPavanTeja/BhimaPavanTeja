@@ -1,10 +1,10 @@
 # Bhima Pavan teja
 
-> [!NOTE]
-> Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
+[![GitHub followers](https://img.shields.io/github/followers/BhimaPavanTeja?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pavantejabhima?style=social)](https://twitter.com/pavantejabhima)
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/pavantejabhima)
+> [!NOTE]
+> I'm Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
 
 ## Intro
 
