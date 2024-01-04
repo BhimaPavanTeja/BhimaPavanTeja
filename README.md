@@ -42,7 +42,8 @@ Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love workin
 - LinkedIn: [Pavan Teja Bhima](https://linkedin.com/in/bhima-pavan-teja-b59813253)
 - Personal Website: [visit Website](https://pavantejabhima.bio.link/)
 
-Feel free to explore my projects and provide feedback. I'm always open to collaboration and learning new things. 😊
+> [!IMPORTANT]
+> Feel free to explore my projects and provide feedback. I'm always open to collaboration and learning new things. 😊
 
 
 <!---
