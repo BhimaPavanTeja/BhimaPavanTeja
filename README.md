@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/pavantejabhima?style=social)](https://twitter.com/pavantejabhima)
 
 > [!NOTE]
-> I'm Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
+> Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
 
 ## Intro
 
