@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/pavantejabhima?style=social)](https://twitter.com/pavantejabhima)
 
 > [!NOTE]
-> Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on android apps making!
+> Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on apps making!
 
 ## Intro
 
@@ -13,7 +13,7 @@ Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love workin
 ## About Me
 
 - 🔭 I’m passionate on working with Frontend tecnologies and Generative AI.
-- 🌱 I’m currently learning Android App Development.
+- 🌱 I’m currently learning App Development.
 - 💬 Ask me about websites.
 - 📫 How to reach me: [Email](pavantejabhima@example.com)
 
