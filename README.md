@@ -34,7 +34,6 @@ Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love workin
 ## GitHub Stats
 
 [![PavanTejaBhima's GitHub | Stats](https://stats.quine.sh/PavanTejaBhima/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PavanTejaBhima)
-[![PavanTejaBhima's GitHub | Topics Over Time](https://stats.quine.sh/PavanTejaBhima/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=PavanTejaBhima)
 [![PavanTejaBhima's GitHub | Languages Over Time](https://stats.quine.sh/PavanTejaBhima/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PavanTejaBhima)
 
 
