@@ -2,11 +2,11 @@
 <h2>About me </h2>
 
 <div >
-  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250" style="border-radius: 7px;">
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250">
 
 
 
-<p>I'm Pavan Teja Bhima a Frontend developer. I'm a Designer at CSI College student club. where I support students to utilise the events. I love working on Websites,Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.I also learned AI stuff like generative ai and machine learning. #upskill #develop #ai #code
+<p>I'm Pavan Teja Bhima a Student, Frontend developer, UI/UX Designer. I'm a Designer at CSI College student club. where I support students to utilise the events. I love working on Websites,Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.I also learned Artifical Intelligence stuff like generative ai and machine learning. #upskill #develop #ai #code
 </p>
 
 </div>
