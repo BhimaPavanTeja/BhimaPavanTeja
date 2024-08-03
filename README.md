@@ -1,53 +1,81 @@
-# Bhima Pavan teja
+<img src="git.png">
+<h2>About me </h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/BhimaPavanTeja?label=Follow&style=social)](https://github.com/BhimaPavanTeja)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pavantejabhima?style=social)](https://twitter.com/pavantejabhima)
+<div >
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250">
 
-> [!NOTE]
-> Frontend Developer and programming in C,C++,Javascript,Python. Currently Working on AIML!
 
-## Intro
 
-Hello! 👋 I'm Pavan Teja Bhima, & passionate Frontend Developer. I love working on Websites,Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.
+<p>I'm Pavan Teja Bhima a Frontend developer. I'm a Designer at CSI College student club. where I support students to utilise the events. I love working on Websites,Apps and Technologies. This is my GitHub profile, where you can find some of my projects and contributions.I also learned AI stuff like generative ai and machine learning. #upskill #develop #ai #code
+</p>
 
-## About Me
+</div>
 
-- 🔭 I’m passionate on working with Frontend tecnologies and Generative AI.
+<a href="https://twitter.com/pavantejabhima"><img src="https://img.shields.io/badge/pavan_Teja_Bhima__%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
+
+<h2> I'm currently ...</h2>
+
+- 🔭  I’m passionate on working with Frontend tecnologies and Generative AI.
 - 🌱 I’m completed App Development.
-- 💻 I'm currently learing AIML & Cloud Computing.
-- 💬 Ask me about websites.
-- 📫 How to reach me: [Email](pavantejabhima@gmail.com)
+- 💻  I'm currently learing AIML & Cloud Computing.
+- ⭐ Now working on HaiMessenger AI integrated react app and star my repo
 
-## Technologies & Tools
+<h2>My skills</h2>
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![CPP](https://img.shields.io/badge/-C++-333333?style=flat&logo=CPP)
-![javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vs_code)
-![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+<h3>Programming Languages</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,r,kotlin" />
+  </a>
+</p>
 
-## Projects
+<h3>Frontend Technolgies</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,materialui,angular,androidstudio,html,css,bootstrap,tailwind" />
+  </a>
+</p>
 
-- [Project 1](https://github.com/BhimaPavanTeja/Art-Space-App): This App contains Gallery of images
-- [Project 2](https://github.com/BhimaPavanTeja/websites.git.io): This is my first website
+<h3>Backend Technolgies</h3>
+<p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,aws,gcp,nodejs,express,mongodb,mysql" />
+  </a>
+</p>
+
+<h3>Tools</h3>
+<p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,pycharm,figma,notion,firebase" />
+  </a>
+</p>
 
 ## GitHub Stats
 
 [![PavanTejaBhima's GitHub | Stats](https://stats.quine.sh/PavanTejaBhima/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PavanTejaBhima)
 
+## Connect with me
+<p>Feel free to explore my projects and provide feedback. I'm always open to collaboration and learning new things. 😊</p>
+<div style="display: flex; gap: 6px;">
+<p>
+<a href="https://www.linkedin.com/in/pavan-teja-bhima-b59813253/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<p>
+<a href="https://x.com/pavantejabhima">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<p>
+<a href="https://discord.com/channels/@pavantejabhima/">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+<p>
+<a href="mailto:pavantejabhima@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-## Connect with Me
-
-- Twitter: [@pavantejabhima](https://twitter.com/pavantejabhima)
-- LinkedIn: [Pavan Teja Bhima](https://linkedin.com/in/bhima-pavan-teja-b59813253)
-- Personal Website: [visit Website](https://pavantejabhima.bio.link/)
-
-> [!IMPORTANT]
-> Feel free to explore my projects and provide feedback. I'm always open to collaboration and learning new things. 😊
-
-
-<!---
-BhimaPavanTeja/BhimaPavanTeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
