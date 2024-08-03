@@ -56,26 +56,17 @@
 
 ## Connect with me
 <p>Feel free to explore my projects and provide feedback. I'm always open to collaboration and learning new things. 😊</p>
-<div style="display: flex; gap: 6px;">
-<p>
-<a href="https://www.linkedin.com/in/pavan-teja-bhima-b59813253/">
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p>
-<a href="https://x.com/pavantejabhima">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-<p>
-<a href="https://discord.com/channels/@pavantejabhima/">
+  <a href="https://discord.com/channels/@pavantejabhima/">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-</p>
-<p>
-<a href="mailto:pavantejabhima@gmail.com">
+  <a href="https://x.com/pavantejabhima">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:pavantejabhima@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
-</div>
