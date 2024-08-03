@@ -2,7 +2,7 @@
 <h2>About me </h2>
 
 <div >
-  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250">
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250" style="border-radius: 7px;">
 
 
 
