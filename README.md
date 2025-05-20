@@ -32,7 +32,7 @@
 <h3>Frontend Technolgies</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,materialui,angular,androidstudio,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,materialui,angular,androidstudio,html,css,bootstrap,tailwind" />
   </a>
 </p>
 
