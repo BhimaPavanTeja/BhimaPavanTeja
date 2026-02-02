@@ -1,8 +1,6 @@
 <img src="git.png">
 <h2>About me </h2>
 
-![My GitHub Game](game.gif)
-
 <div >
   <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" align="right" width="250">
 
